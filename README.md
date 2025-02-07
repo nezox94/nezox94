@@ -1,7 +1,1 @@
-- 👋 I’m @nezox94
-- 👀 I’m interested in hacking
-- 🌱 I’m currently laughting
-- 💞️ I’m solo
-- 📫 no DM
-- 😄 surnom the crazy
-- ⚡ Fun fact:laughing with my friend ^_~
+
